@@ -8,3 +8,4 @@ Somethings that I have most interest in is Reading and plants. My favorite type 
 ## Websites I recommed
 [Herbal Encyclopedia](https://cloverleaffarmherbs.com/)- I recommend this website due to the wealth of information you can get about plants
 [Barnes and Noble](https://www.barnesandnoble.com/)-I recommend this website if you like reading. 
+git remote -v
